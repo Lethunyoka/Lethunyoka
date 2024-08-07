@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Lethunyoka
 - 👀 I’m interested in code and making it come to life through an invention...
 - 🌱 I’m currently learning javascript and python...
-  
+- I am already profificent in c#
+- Currently working on a financial market scanning algorithm.
 - 📫 How to reach me email l3thunyoka@gmail.com...
 
 <!---
